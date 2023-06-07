@@ -1,0 +1,36 @@
+.graph {
+    border: #303030 1px solid;
+    background-color: #e5e6e7;
+}
+.red-color-class{
+    fill: red;
+}
+.blue-color-class{
+    fill: blue;
+}
+.green-color-class{
+    fill: green;
+}
+
+
+.red-link{
+    stroke: red;
+}
+.blue-link{
+    stroke: blue;
+}
+.green-link{
+    stroke: green;
+}
+
+.italic-text{
+    font-style: italic;
+}
+
+.bold-text{
+    font-weight: 600;
+}
+
+.bold-link{
+    stroke-width: 3px;
+}

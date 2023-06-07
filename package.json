@@ -1,0 +1,56 @@
+{
+  "name": "graphvisor",
+  "version": "0.0.1",
+  "description": "GraphVisor is a react component that helps visualize interactive customizable  directed and weighted graphs",
+  "main": "dist/graphvisor.cjs.js",
+  "module": "dist/graphvisor.esm.js",
+  "author": "Nadir Tellai",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "preconstruct build",
+    "release": "yarn build && npm publish"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.2",
+    "@babel/preset-react": "^7.22.3",
+    "@babel/preset-typescript": "^7.21.5",
+    "@preconstruct/cli": "^2.7.0",
+    "@types/d3": "^7.4.0",
+    "@types/jest": "^29.5.1",
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "d3": "^7.8.4"
+  },
+  "keywords": [
+    "React",
+    "Graph visualization",
+    "Directed graphs",
+    "Weighted graphs",
+    "Interactive",
+    "Customizable",
+    "Data visualization",
+    "Network visualization",
+    "Visual analytics",
+    "Node-link diagram",
+    "Data exploration",
+    "React component",
+    "Data representation",
+    "Graph analysis",
+    "Visualization toolkit",
+    "Graph manipulation",
+    "Data-driven visualization",
+    "Network analysis",
+    "Graph rendering"
+  ]
+}
