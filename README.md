@@ -5,6 +5,11 @@
 
 [![npm version](https://badge.fury.io/js/graphvisor.svg)](https://badge.fury.io/js/graphvisor)
 
+## Install
+```bash
+npm i graphvisor
+```
+
 ## Examples
 Check out the interactive examples on the component's [Storybook page](https://graphvisor.storybook.nadir-tellai.com). 
 
