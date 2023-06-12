@@ -2,6 +2,9 @@
 
 > GraphVisor is a React component that facilitates the visualization of interactive, customizable, directed, and weighted graphs.
 
+
+[![NPM](https://img.shields.io/npm/v/react-graph-visualizer.svg)](https://www.npmjs.com/package/graphvisor)
+
 ## Examples
 Check out the interactive examples on the component's [Storybook page](https://graphvisor.storybook.nadir-tellai.com). 
 
