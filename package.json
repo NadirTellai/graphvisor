@@ -1,6 +1,6 @@
 {
   "name": "graphvisor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GraphVisor is a react component that helps visualize interactive customizable  directed and weighted graphs",
   "main": "dist/graphvisor.cjs.js",
   "module": "dist/graphvisor.esm.js",
